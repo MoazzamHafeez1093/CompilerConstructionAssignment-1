@@ -1,0 +1,16 @@
+// This is a sample source code for testing
+
+a = 5 + 3;  // Integer operation
+b = 2.75 * 4.0;  // Decimal operation
+c = true;  // Boolean assignment
+d = 2 ^ 3;  // Exponentiation
+e = b % a;  // Modulus operation
+
+/* Multi-line comment
+   Testing if comments are ignored properly */
+
+x = 10;
+y = x + 20;
+
+output x;
+output y;
